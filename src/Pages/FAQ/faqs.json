@@ -1,0 +1,38 @@
+[
+  {
+    "question": "How does solar technology work?",
+    "answer": "(Photo meaning 'light' and voltaic meaning 'electricity'), Photovoltaic or PV modules, commonly known as solar panels convert sunlight directly into electricity. Photo voltaic cells are made of special materials called semiconductors such as silicon, which is currently used most commonly. When light strikes the cell, a certain portion of it is absorbed within the semiconductor material. This means that the energy of the absorbed light is transferred to the semiconductor. The energy knocks electrons loose, allowing them to flow freely. PV cells have one or more electric field that acts to force electrons freed by light absorption, to flow in a certain direction. This flow of electrons is a current, and by placing metal contacts on the top and bottom of the PV cell, we can draw that current off for external use, say, to power a calculator. This current, together with the cell's voltage (which is a result of its built-in electric field or fields), defines the power (or wattage) that the solar cell can produce."
+  },
+  {
+    "question": "How does solar system work?",
+    "answer": "Solar technology consists of three parts; generation (solar/PV panels), conversion from DC to AC (inverter) and storage (batteries). Generation: Solar panels or Photovoltaic panels (technically called PV modules) produce electricity by converting Sunlight into electrical energy. A single module consists of multiple solar cells, which are usually made up of Silicon mixed with impurities. When Sunlight falls on the module, DC (Direct Current) electrical energy is produced. The amount of this energy produced depends on the climate, the angle of the module relative to the Sun, temperature and efficiency of the module. This DC electrical energy, can be used directly by appliances which run on DC, or can be converted into AC (Alternating Current) electrical energy on which most appliances run. Conversion: The DC electrical energy is converted into AC electrical energy by an inverter. Apart from the fact that most appliances run AC, AC electrical energy can be transported efficiently and cheaper than DC. DC wiring is also more costly than AC wiring. This converted AC electrical energy can either be used by appliances or fed into the utility grid. Storage: Electrical energy is stored in batteries which come in many types. Batteries are charged directly from the solar panels usually through a charge controller which monitors and controls the charging of the battery. Batteries can be used to run appliances in the evening and night or on cloudy days when solar production is low. Storage of electrical energy is optional and many people avoid it as batteries are unreliable and inefficient."
+  },
+  {
+    "question": "What is the best thing about having solar?",
+    "answer": "The best thing about roof top solar is that you have access to free and clean energy! Of course it takes a few years to pay off your initial investment depending on the size of your system and if your system is of a considerable size and produces more than your consumption, you can earn from your rooftop solar system! How much depends on many factors such as your system size, your consumption, the cost at which your utility company buys electricity from you and how much sunshine your system receives. But solar is an amazing source of energy and if done properly, a great opportunity to invest your money."
+  },
+  {
+    "question": "What is the difference between the monocrystalline and polycrystalline cells that are used in solar panels?",
+    "answer": "Both monocrystalline and polycrystalline solar panels serve the same function in the overall solar PV system: they capture energy from the Sun and turn it into electricity. They are both made from silicon, which is used for solar panels because it is an abundant, very durable element. Polycrystalline solar panels generally have lower efficiencies than monocrystalline ones, but their advantage is a lower price point. In addition, polycrystalline solar panels tend to have a blue hue instead of the black hue of monocrystalline panels."
+  },
+  {
+    "question": "Are solar panels cost effective?",
+    "answer": "It depends on where you live. The geography of the area where solar panels are to be installed is very important. It is essential for the area to have good sunlight hours and little or no shading. Extreme weathers can be hazardous for the solar panels. Solar panels are easily cost effective in a grid tied system as the system’s payback period is around 3-4 years. Also in off-grid systems, solar energy is cheaper than utility electricity."
+  },
+  {
+    "question": "How far can solar energy travel?",
+    "answer": "Solar panels convert energy from the Sun to DC electrical energy. DC here means Direct Current. It has been found impractical to transport DC over long distances (due to immense losses) so it must be converted to AC (Alternating Current) by an inverter. This converted AC energy can be transported relatively easily. For very long distances, even AC has to be stepped up (increase in voltage) to several thousand volts to minimize losses.      Also, DC wiring is much more expensive than AC wiring so, apart from the losses, it is much more expensive to transport DC electrical energy."
+  },
+  {
+    "question": "How do solar panels work on cloudy days?",
+    "answer": "For Solar panels to generate electricity, sunlight is required. The higher the intensity of light, the higher the output power which in turn depends on the efficiency of the solar cell. On a cloudy day you don’t get much direct radiation but some diffused radiations through the cloud. So although you don’t get maximum energy generated from the panels you get energy to some extent."
+  },
+  {
+    "question": "How long will my solar energy system last?",
+    "answer": "The expected lifespan of an average solar panel is about 25 years. However, this time may be significantly reduced due to improper maintenance. The efficiency, and therefore the power output, of your system will slowly decrease over time as parts degrade. The rate of decrease will depend on the type and quality of your particular system. For example, your system might be giving you 90% of your original power after 10 years, and 80% after 20 years."
+  },
+  {
+    "question": "Would innovation in batteries to store the energy make solar technology more profitable?",
+    "answer": "Absolutely! Batteries are a weak link in a solar system as they need constant maintenance and replacement. Elon Musk’s Tesla have been working on Lithium Ion batteries which are much better but too expensive. In the future, we will be able to develop batteries capable of lasting longer and are less expensive. That will certainly have a positive impact on solar technology and help solve issues relating to use of solar system at night or when the sun is not available."
+  }
+]

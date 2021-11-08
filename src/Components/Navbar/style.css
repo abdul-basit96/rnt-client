@@ -1,0 +1,19 @@
+.navbar-brand {
+  font-weight: 700;
+}
+@media (max-width: 1000px) {
+  .navbar-brand {
+    color: white;
+  }
+}
+.nav-item {
+  color: white;
+  font-weight: 500;
+}
+.navbar-toggler {
+  border-color: #fff;
+}
+.nav-item:hover {
+  color: white;
+  border-bottom: 1px solid white;
+}

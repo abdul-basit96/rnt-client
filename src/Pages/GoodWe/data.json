@@ -1,0 +1,139 @@
+{
+    "SDT-G2-Series":{
+        "title":"SDT G2 Series",
+        "sub":"4-15KW | Three Phase | 2 MPPT",
+        "detail":"The SDT G2 series of inverter from GoodWe is one of the best options available in the residential & commercial sectors owing to its technical strengths, which make it one of the most productive inverters in the market. Because of its high efficiency of (98.3%), the enhanced oversizing & overloading capabilities and the fact that it does not require a null line for installation, SDT G2 represents an outstanding improvement in the industry.",
+        "h1":"50% DC Input Oversizing",
+        "h2":"10% AC Output Overloading",
+        "h3":"Built-in Anti-Reverse Current",
+        "h4":"Arc-Fault Circuit Interrupter",
+        "p1":"",
+        "p2":"",
+        "p3":"In regions where solar power is not allowed to be reverberated to the grid, installers can easily set an export limit through the GoodWe app with one simple-click, as SDT G2 has integrated a built-in anti-reverse current function into the inverter.",
+        "p4":"Safety First! With AFCI, the inverter is able to detect arc fault failure, sending alarms through monitoring systems and breaking the circuit simultaneously. GoodWe does not only deliver efficiency, reliability, but security as well."
+    },    
+    "SMT-Series":{
+            "title":"SMT Series",
+            "sub":"25-36KW | Three Phase | 3 MPPT",
+            "detail":"GoodWe’s brand new SMT series of inverter is ideal for medium and large-scale commercial rooftop installations, providing a maximum efficiency of 98.8 percent and up to three MPPT routes for particular environments. With a weight of just 40 kg and a compact, efficient design, the SMT series is easier to handle and install in comparison to similar inverters in the market. Featuring a maximum DC input voltage of 1100V, wider MPPT range, and a start-up voltage of 180 V, the SMT series guarantees earlier power generation and longer working time in order to maximize long-term returns and profitability for the system owner.",
+            "h1":"200V-950V Wide MPPT Range",
+            "h2":"Compatible with Bi-facial Modules",
+            "h3":"Three MPPT Asymmetric Design",
+            "h4":"PLC Communication",
+            "p1":"Wide MPPT Range enables solar system to start at early stage, fully utilising the daytime to maximizing solar powered energy generation, giving the highest yield.",
+            "p2":"SMT is designed to meet the increasing demand of bi-facial modules, with large current input and 30% DC oversizing and 10% AC overloading capacity, system efficiency is enormously enhanced.",
+            "p3":"Multiple MPPT design caters for complicated rooftop structures and directions, unbalanced string trackers fully utilize sunshine from each angle. Maximum yield is guaranteed for commercial rooftop systems.",
+            "p4":"The optional PLC communication offers stable data transmission and enables monitoring of large PV systems in remote areas."
+        },
+        "MT-Series":{
+            "title":"MT Series",
+            "sub":"50-80KW | Three Phase | 4 MPPT",
+            "detail":"GoodWe’s MT series of inverter is ideal for medium to large-sized distribution projects, especially for large-scale commercial roofs and farm plants. The range boasts advanced topology and innovative control technology to achieve a maximum efficiency of 99.0%, aimed at maximising long-term returns and profitability for the system owner.",
+            "h1":"Power Boost",
+            "h2":"Four MPPT Maxmize Output",
+            "h3":"50 Degree Full-Load Operation",
+            "h4":"PLC Communication",
+            "p1":"Boost your power output up to an extra 15% to achieve a higher yield and quicker return on investment.",
+            "p2":"Improve your energy harvest with four MPPT trackers to minimize output losses caused by partial shading and other mismatch effects.",
+            "p3":"",
+            "p4":"The optional PLC communication offers stable data transmission and enables monitoring of large PV systems in remote areas.            "
+        },
+        "HT-Series":{
+            "title":"HT Series",
+            "sub":"100-136KW ∣ Three Phase ∣ up to 12 MPPT",
+            "detail":"The new HT 1100Vdc Series (100-136 KW) is the ultimate high-power string inverter for the C&I sector. The HT series offers up to 12 MPPTs, and is compatible with Bi-facial modules, with a higher threshold of DC current (Max. 15A per string). It includes PLC communication, optional AC terminal over-temperature protection and internal humidity detection. Configuration can be easily done via Bluetooth and firmware diagnosis & upgrading can be operated remotely. The HT series seamlessly incorporates different sets of technical strengths designed to achieve higher savings in the installation, enhance productivity and diversify available monitoring options, taking safety to the maximum possible level in accordance with the strictest industry standards.",
+            "h1":"Easy & Quick Setup via Bluetooth",
+            "h2":"Arc-Fault Circuit Interrupter",
+            "h3":"Temperature & Humidity Detection",
+            "h4":"Type | Surge Protection",
+            "p1":"Configuration can be easily done via Bluetooth and firmware diagnosis & upgrading can be operated remotely, offering you convenience and reliability.",
+            "p2":"With AFCI, the inverter is able to detect arc fault failure, send alarms through the monitoring systems and break the circuit simultaneously. GoodWe does not only deliver efficiency and reliability, but security as well.",
+            "p3":"With advanced sensors integrated, HT Inverters are able to detect the temperature of the AC connector and the internal humidity of the machine. This function is designed to send alarms if either the connector’s temperature or the inverter’s interior relative humidity is too high.",
+            "p4":"Both the DC side and AC side are equipped with optional Type I surge protection to protect the inverter from lightning, providing upgraded safety and reliability for the PV system."
+        },
+        "ET-Series":{
+            "title":"ET Series",
+            "sub":"5-10KW | Three Phase Storage Inverter | High Voltage Battery",
+            "detail":"The brand new ET Series, from GoodWe, is a three-phase high voltage energy storage inverter that enables enhanced energy independence and maximizes self-consumption through an export limit feature and time of use shifts for reduced electric bills. Covering a power range of 5 kW, 6.5kW, 8 kW and 10 kW, the ET Series allows up to 10% overloading to maximize power output and features Uninterruptible Power Supply Function (UPS) to inductive loads such as air conditioners or refrigerators with an automatic switchover time of less than 10 milliseconds, providing savings when the grid is up and independence and security when it is down or compromised.",
+            "h1":"180~600V Wide Battery Voltage Range",
+            "h2":"98.2% Maximum System Efficiency",
+            "h3":"UPS | 0.01s",
+            "h4":"Fanless Design Quiet Operation",
+            "p1":"Compatible with various high voltage batteries and offers flexibility and affordability to fulfil various customer demands.",
+            "p2":"Due to GoodWe’s cutting-edge patented technology, combined with high voltage batteries, the system’s efficiency can reach up to 98.2%, fully making use of solar energy.",
+            "p3":"Uninterrupted Power Supply | No Effect On Electrical Appliance",
+            "p4":"The Fan-less design does not only ensure a longer lifespan for the non-stop working inverter, but also creates a quiet operating atmosphere for daily life."
+        },
+        "ESA-Series":{
+            "title":"ESA Series",
+            "sub":"5KW+10.8KWh | All-in-one Single Phase Storage Inverter",
+            "detail":"GoodWe ESA Series is an all-in-one solar and storage solution which integrates the inverter, battery charger, UPS and battery enclosure into a pre-wired modular system for easier and faster installation. The compact, elegantly designed and robust unit is IP65 rated so it can be mounted either inside or outside, withstanding all weather conditions.",
+            "h1":"All-In-One",
+            "h2":"Pre-Wired",
+            "h3":"UPS | 0.01s",
+            "h4":"Expandable Storage",
+            "p1":"This masterpiece perfectly integrates with a 5KW hybrid inverter with a 10.8KWh Lithium battery inside. Additionally, the exquisite ESA Series occupies less space and offers neater installation than a split storage system in order to create a high-performance system that is aesthetically pleasing.",
+            "p2":"The ESA Series is pre-wired and factory tested to enable quick installation. The modular, maneuverable system allows you to keep installation costs down. It only takes a simple 3-step process to connect the system to your customer’s home internet. Cut up to 50% of installation time!",
+            "p3":"Uninterrupted Power Supply | No Effect On Electrical Appliance",
+            "p4":"The Smart Hybrid System has been designed to make installation easier. The modular system is expandable with battery storage to suit the customer’s needs. The lightweight, maneuverable system makes installation a breeze.            "
+        },
+        "SEMS":{
+            "title":"SMART ENERGY MANAGEMENT SYSTEM",
+            "sub":"Pave The Road For The Future",
+            "detail":"",
+            "h1":"ALL-IN-ONE MONITORING & COMPREHENSIVE VISUALIZATION",
+            "h2":"Three Step Data Encryption",
+            "h3":"",
+            "h4":"",
+            "p1":"The live and archived data from any PV power plants in a particular account can be called up and graphically displayed.",
+            "p2":"Remote access and communication via secure encrypted data lines",
+            "p3":"",
+            "p4":""
+        },
+        "Smart-Meter":{
+            "title":"Smart Meters",
+            "sub":"",
+            "detail":"GoodWe’s Smart Meter is designed with high-precision small-scale dimensions, and convenient operation and installation. It is available for both single-phase and three-phase grid system connection to detect voltage, current, power and energy, and for working with inverters including SEMS systems for the purpose of energy management.",
+            "h1":"",
+            "h2":"",
+            "h3":"",
+            "h4":"",
+            "p1":"",
+            "p2":"",
+            "p3":"",
+            "p4":"",
+            "features":{
+                "a": "Modular Design",
+                "b":"Precise Data Collection",
+                "c":"Easy Installation"
+            },
+            "featureIcons":{
+                "a":"Modular-Design",
+                "b":"Precise-Data-Collection",
+                "c":"Easy-Installation"
+            }
+        },
+        "Wifi-Module":{
+            "title":"WIFI Module",
+            "sub":"",
+            "detail":"· Data encrypted to ensure data security · Supports breakpoint retransmission - automatic disconnection of broken links, reconnection and subsequent transmission to prevent data loss · Remote upgrade - inverter program update without going on site · Pre-assembled, tested and shipped - no on-site installation required, stable performance.",
+            "h1":"",
+            "h2":"",
+            "h3":"",
+            "h4":"",
+            "p1":"",
+            "p2":"",
+            "p3":"",
+            "p4":"",
+            "features":{
+                "a": "Data Security",
+                "b":"Breakpoint Retransmission",
+                "c":"Remote Upgrade"
+            },
+            "featureIcons":{
+                "a":"Data-Security",
+                "b":"Breakpoint-Retransmission",
+                "c":"Remote-Upgrade"
+            }
+        }
+}

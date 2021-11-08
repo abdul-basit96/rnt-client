@@ -1,0 +1,12 @@
+.contact-form {
+  box-shadow: 0 0 10px 0px grey;
+  background-color: #f1f9ff;
+}
+.form-heading {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.btn-div {
+  text-align: center;
+  margin-top: 20px;
+}

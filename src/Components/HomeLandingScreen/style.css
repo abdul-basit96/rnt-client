@@ -1,0 +1,44 @@
+h1 {
+  color: #1c4f84;
+  font-weight: 700;
+}
+h5 {
+  color: #1c4f84;
+  font-weight: 500;
+}
+.btn-theme {
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 50px;
+  transition: 0.5s;
+  color: #1c4f84;
+  border: 2px solid #1c4f84; /* green-color :#31d679 */
+  text-decoration: none;
+}
+.btn-theme:hover {
+  background-color: #1c4f84;
+  color: white;
+}
+
+.animated-img {
+  animation: up-down 4s ease-in-out infinite alternate-reverse both;
+}
+@-webkit-keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
+@keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}

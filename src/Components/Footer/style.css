@@ -1,0 +1,41 @@
+.footer-ul-container {
+  background-color: #f1f9ff;
+}
+.footer-ul-container ul {
+  list-style: none;
+}
+.btn-primary {
+  background-color: #1c4f84;
+  font-size: 15px;
+}
+.btn-primary:hover {
+  background-color: #1c4f84;
+}
+
+#inputFooterEmail {
+  width: 250px;
+}
+.social-icons {
+  list-style: none;
+}
+.social-icons li {
+  margin-right: 25px;
+}
+.social-img {
+  transition: 1s;
+}
+.social-icons li :hover .social-img {
+  transform: perspective(600px) rotateY(-180deg);
+}
+.end-container {
+  background-color: #1c4f84;
+  color: white;
+}
+.footer-links-list {
+  color: #1c4f84;
+  font-weight: bold;
+  font-size: 15px;
+}
+.footer-navlink {
+  color: #1c4f84;
+}

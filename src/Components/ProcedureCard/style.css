@@ -1,0 +1,13 @@
+.procedure-card {
+  background-color: #f1f9ff;
+  box-shadow: 0 0 10px 0px grey;
+}
+p {
+  color: #1c4f84;
+  font-size: 12px;
+}
+
+.clickable {
+  color: #062d57;
+  cursor: pointer;
+}
