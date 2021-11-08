@@ -3,6 +3,7 @@ import "./style.css";
 import Header from "../../Containers/Header";
 import ServiceContainer from "../../Containers/ServiceContainer";
 import ServiceCard from "../../Components/ServiceCard";
+import HowItWorks from "../../Containers/HowItWorks";
 
 const Services = () => {
   useEffect(() => {
@@ -39,6 +40,7 @@ const Services = () => {
           );
         })}
       </ServiceContainer>
+      <HowItWorks />
     </>
   );
 };
