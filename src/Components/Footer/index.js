@@ -2,6 +2,7 @@ import React from "react";
 import "./style.css";
 import { FaFacebookF, FaInstagram, FaTwitter } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
+import  WorkWithUsModal from "../WorkWithUsModal";
 
 const SubmitForm = (props) => {
   props.event.preventDefault();
@@ -66,10 +67,8 @@ const Footer = () => {
                 <NavLink
                   className="text-decoration-none footer-navlink"
                   to="/"
-                  onClick={(event) => {
-                    event.preventDefault();
-                    alert("No post is available now. We will hire soon.");
-                  }}
+                  data-toggle="modal"
+                  data-target="#workWithUsModal"
                 >
                   WORK WITH US
                 </NavLink>
@@ -137,6 +136,7 @@ const Footer = () => {
           </div>
         </dv>
       </div>
+      <WorkWithUsModal />
     </>
   );
 };
