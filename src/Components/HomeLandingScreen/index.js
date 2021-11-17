@@ -3,8 +3,16 @@ import "./style.css";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { NavLink } from "react-router-dom";
+import QuoteModal from "../QuoteModal";
 
 const HomeLandingScreen = (props) => {
+  const [open, setOpen] = React.useState(false);
+  const openModal = () => {
+    setOpen(true);
+  };
+  const closeModal = () => {
+    setOpen(false);
+  };
   useEffect(() => {
     Aos.init({ duration: 2000 });
   });
@@ -23,7 +31,11 @@ const HomeLandingScreen = (props) => {
               className="text-decoration-none footer-navlink"
               to="/contact"
             >
-              <button type="button" class="btn btn-theme">
+              <button type="button" class="btn btn-theme"
+              onClick={(event) => {
+                event.preventDefault(); //remove this line for navigate to /contact
+                openModal();
+              }}>
                 GET A QUOTE
               </button>
             </NavLink>
@@ -37,6 +49,7 @@ const HomeLandingScreen = (props) => {
           />
         </div>
       </div>
+      <QuoteModal open={open} closeModal={closeModal}/>
     </>
   );
 };

@@ -2,11 +2,19 @@ import React from "react";
 import "./style.css";
 import { FaFacebookF, FaInstagram, FaTwitter } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
+import QuoteModal from "../QuoteModal";
 
 const SubmitForm = (props) => {
   props.event.preventDefault();
 };
 const Footer = () => {
+  const [open, setOpen] = React.useState(false);
+  const openModal = () => {
+    setOpen(true);
+  };
+  const closeModal = () => {
+    setOpen(false);
+  };
   return (
     <>
       <div className="container-fluid">
@@ -19,7 +27,11 @@ const Footer = () => {
               className="text-decoration-none footer-navlink"
               to="/contact"
             >
-              <button type="button" class="btn btn-theme mt-4">
+              <button type="button" class="btn btn-theme mt-4"
+              onClick={(event) => {
+                event.preventDefault(); //remove this line for navigate to /contact
+                openModal();
+              }}>
                 GET A QUOTE
               </button>
             </NavLink>
@@ -137,6 +149,7 @@ const Footer = () => {
           </div>
         </dv>
       </div>
+      <QuoteModal open={open} closeModal={closeModal}/>
     </>
   );
 };
