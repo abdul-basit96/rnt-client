@@ -1,0 +1,15 @@
+
+.projects-div .project-img:hover {
+    transform: scale(1.05);
+}
+
+.projects-div .project-img {
+    transition: transform .5s ease;
+    overflow: hidden;
+}
+
+.projects-div .project-img-div {
+    overflow: hidden;
+    width: 417;
+    height: 298;
+}

@@ -11,8 +11,9 @@ import ContactForm from "./Pages/ContactForm";
 import FAQ from "./Pages/FAQ";
 import PrivacyPolicy from "./Pages/PrivacyPolicy";
 import Terms from "./Pages/Terms";
-import Products from "./Pages/Products";
+import Projects from "./Pages/Projects";
 import GoodWe from './Pages/GoodWe'
+import ProjectDetail from "./Pages/ProjectDetail";
 // import '../node_modules/bootstrap/dist/js/bootstrap.bundle.js'
 
 function App() {
@@ -20,7 +21,8 @@ function App() {
     <>
       <Switch>
         <Route exact path="/" component={Home}></Route>
-        <Route exact path="/products" component={Products}></Route>
+        <Route exact path="/projects" component={Projects}></Route>
+        <Route exact path="/project/:id" component={ProjectDetail}></Route>
         <Route exact path="/services" component={Services}></Route>
         <Route exact path="/about" component={About}></Route>
         <Route exact path="/contact" component={ContactForm}></Route>

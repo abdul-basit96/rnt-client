@@ -1,0 +1,29 @@
+.project-detail-div .leftButton {
+    position: absolute;
+    left: 4%;
+    width: 40px;
+    height: 40px;
+    bottom: 50%;
+ }
+
+ .project-detail-div .leftButton:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+ }
+ 
+ .project-detail-div .rightButton {
+    position: absolute;
+    right: 4%;
+    width: 40px;
+    height: 40px;
+    bottom: 50%;
+ }
+
+ .project-detail-div .rightButton:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+ }
+
+ .project-detail-div .img-div {
+     position: relative;
+ }
